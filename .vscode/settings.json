@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "mysimplecomputer.h": "c",
+        "myreadkey.h": "c",
+        "myterm.h": "c",
+        "unistd.h": "c"
+    }
+}
